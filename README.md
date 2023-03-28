@@ -26,3 +26,7 @@ How to use this:
 6. Replace filepath
 7. Add the bot to your server
 8. Run "main.py"
+
+Possible issues and how to fix:
+If the bot is not sending any image, modify line 72 in main.py. 
+WebDriverWait is by default 2 seconds, but maybe it takes more time for the page to load, so increase that number.
