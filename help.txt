@@ -1,0 +1,15 @@
+Hey there, I'm happy to help you :blush:
+
+My job is to generate and share with you a random color of my choice every hour.
+
+Commands list:
+/color = immediately generate a new color
+/blue = generate a shade of blue
+/green = generate a shade of green
+/red = generate a shade of red
+/orange = generate a shade of orange
+/yellow = generate a shade of yellow
+/purple = generate a shade of purple
+/pink = generate a shade of pink
+
+
